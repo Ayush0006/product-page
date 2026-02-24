@@ -46,7 +46,7 @@ product-page/
 - Used <img> tags for rendering
 
  🔗 Live Demo
-(Add GitHub Pages link here)
+(https://ayush0006.github.io/product-page/)
 
 ## 📌 Notes
 - All elements are matched as per Figma design
